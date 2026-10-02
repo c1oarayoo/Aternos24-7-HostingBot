@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "c1oarasmp.aternos.me",
+    "port": 21631,
     "version": "",
     "try-creative": false
   },
